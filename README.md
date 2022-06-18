@@ -8,14 +8,14 @@
 sudo apt-get update -y
 sudo apt-get install -y entr
 ```
-```console
-sudo apt install nodejs
-sudo apt install python3
-```
   - If this doesn't work, then build via the github page or download via the website:
     - [Entr Github Page](https://github.com/eradman/entr#readme)
 
     - [Entr Website](https://eradman.com/entrproject/)
+```console
+sudo apt install nodejs
+sudo apt install python3
+```
 ---
  - ## Usage
 
