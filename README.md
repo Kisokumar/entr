@@ -1,5 +1,5 @@
  # JScomp & PYcomp
-> ### Uses Entr to run JavaScript and Python3 files when changes are detected.
+### Uses Entr to run JavaScript and Python3 files when changes are detected.
 
 ---
 - ## Install dependencies
