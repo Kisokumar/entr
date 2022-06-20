@@ -22,13 +22,13 @@ sudo apt install python3
 >  - **Python**
 
 ```
-sh pycomp.sh /path/to/file.py
+pycomp /path/to/file.py
 ```
 
 > - **JavaScript**
 
 ```
-sh jscomp.sh /path/to/file.js
+jscomp /path/to/file.js
 ```
 ---
 - ## Need to add support for:
